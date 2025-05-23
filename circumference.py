@@ -2,8 +2,6 @@
 
 pi = 3.1415926536
 
-print()
-
 print("\nEnter 'q' at any time when you are finished.")
 
 while True:
